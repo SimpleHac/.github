@@ -1,12 +1,43 @@
-## Hi there 👋
+# SimpleHac 团队 🚀
 
-<!--
+让我们一起探索黑苹果的奇妙世界！💻✨
 
-**Here are some ideas to get you started:**
+## 关于我们
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+SimpleHac 是一个充满活力的 00 后团队，我们的目标是：**简化黑苹果安装和管理，让黑苹果的世界变得更加简单！** 🌟
+
+## 我们的团队成员 🦸‍♂️
+
+  * **laobamac** ：团队的智慧大脑，负责核心项目和技术的开发与维护。他拥有远见的思维，是团队前进方向的掌舵人。🚀
+  * **XiaoR** ：团队的 “开心果” 和 “润滑剂”，帮助大家理清思路，确保团队高效运作。他既是团队沟通的桥梁，也是解决问题的关键人物。🤝
+  * **Qicc** ：网站前端的魔法师，凭借专业技能为团队带来强大的技术支持，让网站焕发光彩。✨
+  * **win10Q** ：技术达人兼宣传大使，参与技术开发，同时负责 SimpleHac 的宣传工作，将团队的工具介绍给更多人，扩大了项目的影响力。📣
+  * **Pika** ：项目参与维护、开发，同时负责测试与Cloudflare支持。👩‍💻
+
+## 我们的宝藏网站 🌐
+
+[SimpleHac 网站](#)是您探索黑苹果世界的终极宝藏，为您提供丰富多样的资源和交流平台。
+
+### 核心功能
+
+  * **资源分享** ：我们提供黑苹果系统镜像文件、工具、驱动程序、应用程序等各类资源的下载，满足您在安装和使用过程中的各种需求。🗂️
+  * **社区交流** ：设有论坛等交流平台，这里是一个充满热情和智慧的社区，您可以提问、解答、分享使用心得和技术技巧，大家一起互助共进。💬
+  * **教程与指南** ：详细的黑苹果安装教程和技术指南，图文并茂的步骤说明、视频教程等一应俱全，无论您是新手还是有一定经验的用户，都能轻松上手。📚
+  * **项目展示** ：展示我们团队开发的项目和工具，如 SimpleHac 工具箱等，提供项目介绍、使用说明和下载链接，方便您了解和使用我们的最新成果。💎
+
+## 我们的辉煌成就 🏆
+
+  * **技术贡献** ：我们开发了多种黑苹果安装和管理工具，简化了复杂的安装过程，降低了黑苹果的使用门槛，让更多的用户能够轻松体验到黑苹果系统的优势。🔧
+  * **社区影响力** ：我们吸引了大量黑苹果爱好者，形成了一个活跃的社区。团队成员积极与社区用户互动，解答问题，收集反馈，不断改进产品和服务。👨‍💻👩‍💻
+  * **开源贡献** ：在 GitHub 等开源平台上分享我们的代码和项目，与其他开发者进行交流和合作，为黑苹果技术的开源发展做出贡献。🌐
+
+## 联系我们
+
+如果您对 SimpleHac 团队或我们的项目感兴趣，欢迎通过以下方式与我们联系：
+
+  * **GitHub 主页** ：[SimpleHac GitHub](https://github.com/SimpleHac) 🐙
+  * **官方网站** ：[SimpleHac 网站](https://www.simplehac.com/) 🌐
+
+加入我们，一起探索黑苹果的无限可能！🌈🎉
+
+快来看看我们的项目，一起玩转黑苹果吧！ 😎
